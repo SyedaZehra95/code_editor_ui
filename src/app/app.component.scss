@@ -1,0 +1,54 @@
+.codeArea{
+    padding: 3%;
+    background-color:  #3c2f2f;
+}
+
+.nav-header{
+    background-color:  #3c2f2f !important;
+    border-bottom: 1 px solid #5c4141e5;
+}
+.navbar{
+    background-color: #fff4e6 !important ;
+    margin-top: 3%;
+}
+[contenteditable]:focus {
+    outline: 0px solid transparent;
+}
+.code{
+    margin-top:3%;
+    width: 44rem;
+    height: 45rem;
+    padding: 5%;
+    color: #fff4e6;
+    font-size: 1.2rem; 
+    overflow: scroll;
+   border-right: 1px solid #5c4141e5;
+   
+   //background-color: #443434e5;
+}
+.output{
+    color: #fff4e6;
+    font-size: 1.5rem;
+   
+    padding: 5%;
+    padding-top: 7%; 
+}
+
+.list_files{
+    background-color: #4b3832 !important;
+    
+ }
+ td{
+    padding: 2%;
+    margin: 3%;
+ }
+ tr a{
+
+    color: #fff4e6;
+ }
+
+ .navbar-nav  ul{
+    margin-left: 50% !important;
+    
+   
+  }
